@@ -27,7 +27,7 @@
     },
     {
       "guid": "61AA2559-7D64-40A2-A3BE-56DD3F6BBD4A",
-      "name": "Stievie",
+      "name": "Stievie via VTM GO",
       "description": "Online uitzendingen van Stievie.",
       "icon": "stievielogo.png",
       "category": "National",
@@ -36,7 +36,8 @@
       "language": "be",
       "fanart": "stieviefanart2.jpg",
       "message": "Streams from Stievie.be require a Medialaan account. It can be configured via the Channel settings.",
-      "localIPSupported": true
+      "localIPSupported": true,
+      "addonUrl": "plugin://plugin.video.vtm.go"
     }
   ],
   "settings": [
